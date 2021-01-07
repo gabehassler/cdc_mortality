@@ -10,7 +10,9 @@ I aim to place the 2020 CDC mortality statistics in context with previous years.
 - 2017: https://www.cdc.gov/nchs/data/nvsr/nvsr68/nvsr68_09-508.pdf
 - 2018: https://www.cdc.gov/nchs/fastats/deaths.htm
 
-For 2019, I took the provisional death counts (https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm) and simply divided by the population on 7/1/2019 (328,239,523 per https://www.census.gov/popclock/) which is halfway through 2019. This resulted in an approximate death rate of 
+For 2019, I took the provisional death counts (https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm) and simply divided by the population on 7/1/2019 (328,239,523 per https://www.census.gov/popclock/) which is halfway through 2019. This resulted in an approximate death rate of 870 per 100,000 population.
+
+For 2020, the data are harder to come by. We have provisionla data for the first 6 months of 2020 (https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm), which add up to 
 
 
 | Year | Total Deaths | Deaths per 100,000 population | Life Expancancy |
