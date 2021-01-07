@@ -17,17 +17,17 @@ For 2020, the data are harder to come by. We have provisionla data for the first
 For the 2020 death rate, I took the estimated 2020 death count with the 7/1/2020 estimated US population of 329,877,505 from https://www.census.gov/popclock/.
 
 
-| Year | Total Deaths | Deaths per 100,000 population | Life Expancancy | Percent Change in Death Rate |
+| Year | Total Deaths | Deaths per 100,000 population |  Percent Change in Death Rate |
 |------|--------------|------------------------------|-----------------| --- |
-| 2011 | 2,515,458 | 807.3 | 78.7 | |
-| 2012 | 2,543,279 | 810.2 | 78.8 | +0.4% |
-| 2013 | 2,596,993 | 821.5 | 78.8 | +1.4% |
-| 2014 | 2,626,418 | 823.7 | 78.8 | +0.3%|
-| 2015 | 2,712,630 | 844.0 | 78.8 | +2.5%|
-| 2016 | 2,744,248 | 849.3 | 78.6 | +0.6%|
-| 2017 | 2,813,503 | 863.8 | 78.6 | +1.7%|
-| 2018 | 2,839,205 | 867.8 | 78.7 | +0.5%|
-| 2019 | ~2,855,000 | ~870 | ? | +0.3%|
-| 2020 | ~3,300,000 | ~1,000 | ? | +15%|
+| 2011 | 2,515,458 | 807.3 |  |
+| 2012 | 2,543,279 | 810.2 | +0.4% |
+| 2013 | 2,596,993 | 821.5 | +1.4% |
+| 2014 | 2,626,418 | 823.7 | +0.3%|
+| 2015 | 2,712,630 | 844.0 | +2.5%|
+| 2016 | 2,744,248 | 849.3 | +0.6%|
+| 2017 | 2,813,503 | 863.8 | +1.7%|
+| 2018 | 2,839,205 | 867.8 | +0.5%|
+| 2019 | ~2,855,000 | ~870 | +0.3%|
+| 2020 | ~3,300,000 | ~1,000 | +15%|
 
 __Note: The 2020 numbers are NOT official CDC estimates. They are based on CDC data (see methods above) but the CDC has not released provisional mortality data for all of 2020.__
