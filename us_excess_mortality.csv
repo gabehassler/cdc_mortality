@@ -1,0 +1,622 @@
+﻿Week Ending Date,State,Observed Number,Upper Bound Threshold,Exceeds Threshold,Average Expected Count,Excess Lower Estimate,Excess Higher Estimate,Year,Total Excess Lower Estimate in 2020,Total Excess Higher Estimate in 2020,Percent Excess Lower Estimate,Percent Excess Higher Estimate,Type,Outcome,Suppress,Note
+1/14/2017,United States,61114,60953,TRUE,57729,161,3385,2017,328900,446406,0,0.1,Predicted (weighted),All causes,,
+1/14/2017,United States,61114,60953,TRUE,57729,161,3385,2017,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,
+1/14/2017,United States,61114,60953,TRUE,57729,161,3385,2017,288102,400735,0,0.1,Unweighted,All causes,,
+1/21/2017,United States,59454,61555,FALSE,58353,0,1101,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+1/21/2017,United States,59454,61555,FALSE,58353,0,1101,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+1/21/2017,United States,59454,61555,FALSE,58353,0,1101,2017,288102,400735,0,0,Unweighted,All causes,,
+1/28/2017,United States,58176,60692,FALSE,58351,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+1/28/2017,United States,58176,60692,FALSE,58351,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+1/28/2017,United States,58176,60692,FALSE,58351,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+2/4/2017,United States,58550,60566,FALSE,58208,0,342,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+2/4/2017,United States,58550,60566,FALSE,58208,0,342,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+2/4/2017,United States,58550,60566,FALSE,58208,0,342,2017,288102,400735,0,0,Unweighted,All causes,,
+2/11/2017,United States,59162,60362,FALSE,57862,0,1300,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+2/11/2017,United States,59162,60362,FALSE,57862,0,1300,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+2/11/2017,United States,59162,60362,FALSE,57862,0,1300,2017,288102,400735,0,0,Unweighted,All causes,,
+2/18/2017,United States,58591,60087,FALSE,57686,0,905,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+2/18/2017,United States,58591,60087,FALSE,57686,0,905,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+2/18/2017,United States,58591,60087,FALSE,57686,0,905,2017,288102,400735,0,0,Unweighted,All causes,,
+2/25/2017,United States,58385,59624,FALSE,57458,0,927,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+2/25/2017,United States,58385,59624,FALSE,57458,0,927,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+2/25/2017,United States,58385,59624,FALSE,57458,0,927,2017,288102,400735,0,0,Unweighted,All causes,,
+3/4/2017,United States,57359,59278,FALSE,57183,0,176,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+3/4/2017,United States,57359,59278,FALSE,57183,0,176,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/4/2017,United States,57359,59278,FALSE,57183,0,176,2017,288102,400735,0,0,Unweighted,All causes,,
+3/11/2017,United States,57597,58908,FALSE,56753,0,844,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+3/11/2017,United States,57597,58908,FALSE,56753,0,844,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/11/2017,United States,57597,58908,FALSE,56753,0,844,2017,288102,400735,0,0,Unweighted,All causes,,
+3/18/2017,United States,56789,58635,FALSE,56432,0,357,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+3/18/2017,United States,56789,58635,FALSE,56432,0,357,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/18/2017,United States,56789,58635,FALSE,56432,0,357,2017,288102,400735,0,0,Unweighted,All causes,,
+3/25/2017,United States,57162,58322,FALSE,56043,0,1119,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+3/25/2017,United States,57162,58322,FALSE,56043,0,1119,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/25/2017,United States,57162,58322,FALSE,56043,0,1119,2017,288102,400735,0,0,Unweighted,All causes,,
+4/1/2017,United States,55828,57600,FALSE,55604,0,224,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+4/1/2017,United States,55828,57600,FALSE,55604,0,224,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+4/1/2017,United States,55828,57600,FALSE,55604,0,224,2017,288102,400735,0,0,Unweighted,All causes,,
+4/8/2017,United States,55267,57072,FALSE,55105,0,162,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+4/8/2017,United States,55267,57072,FALSE,55105,0,162,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+4/8/2017,United States,55267,57072,FALSE,55105,0,162,2017,288102,400735,0,0,Unweighted,All causes,,
+4/15/2017,United States,54976,56676,FALSE,54572,0,404,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+4/15/2017,United States,54976,56676,FALSE,54572,0,404,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+4/15/2017,United States,54976,56676,FALSE,54572,0,404,2017,288102,400735,0,0,Unweighted,All causes,,
+4/22/2017,United States,53168,56311,FALSE,54147,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+4/22/2017,United States,53168,56311,FALSE,54147,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+4/22/2017,United States,53168,56311,FALSE,54147,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+4/29/2017,United States,53404,55800,FALSE,53675,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+4/29/2017,United States,53404,55800,FALSE,53675,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+4/29/2017,United States,53404,55800,FALSE,53675,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+5/6/2017,United States,52753,54927,FALSE,53036,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+5/6/2017,United States,52753,54927,FALSE,53036,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+5/6/2017,United States,52753,54927,FALSE,53036,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+5/13/2017,United States,52082,54434,FALSE,52591,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+5/13/2017,United States,52082,54434,FALSE,52591,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+5/13/2017,United States,52082,54434,FALSE,52591,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+5/20/2017,United States,52574,54213,FALSE,52211,0,363,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+5/20/2017,United States,52574,54213,FALSE,52211,0,363,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+5/20/2017,United States,52574,54213,FALSE,52211,0,363,2017,288102,400735,0,0,Unweighted,All causes,,
+5/27/2017,United States,51101,53925,FALSE,51861,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+5/27/2017,United States,51101,53925,FALSE,51861,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+5/27/2017,United States,51101,53925,FALSE,51861,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+6/3/2017,United States,51370,53459,FALSE,51490,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+6/3/2017,United States,51370,53459,FALSE,51490,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/3/2017,United States,51370,53459,FALSE,51490,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+6/10/2017,United States,51525,53205,FALSE,51366,0,159,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+6/10/2017,United States,51525,53205,FALSE,51366,0,159,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/10/2017,United States,51525,53205,FALSE,51366,0,159,2017,288102,400735,0,0,Unweighted,All causes,,
+6/17/2017,United States,50942,52984,FALSE,51178,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+6/17/2017,United States,50942,52984,FALSE,51178,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/17/2017,United States,50942,52984,FALSE,51178,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+6/24/2017,United States,51317,53093,FALSE,51122,0,195,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+6/24/2017,United States,51317,53093,FALSE,51122,0,195,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/24/2017,United States,51317,53093,FALSE,51122,0,195,2017,288102,400735,0,0,Unweighted,All causes,,
+7/1/2017,United States,50742,53018,FALSE,50987,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+7/1/2017,United States,50742,53018,FALSE,50987,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+7/1/2017,United States,50742,53018,FALSE,50987,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+7/8/2017,United States,51101,52848,FALSE,50882,0,219,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+7/8/2017,United States,51101,52848,FALSE,50882,0,219,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+7/8/2017,United States,51101,52848,FALSE,50882,0,219,2017,288102,400735,0,0,Unweighted,All causes,,
+7/15/2017,United States,50122,52674,FALSE,50816,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+7/15/2017,United States,50122,52674,FALSE,50816,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+7/15/2017,United States,50122,52674,FALSE,50816,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+7/22/2017,United States,50231,52534,FALSE,50717,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+7/22/2017,United States,50231,52534,FALSE,50717,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+7/22/2017,United States,50231,52534,FALSE,50717,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+7/29/2017,United States,49493,52598,FALSE,50641,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+7/29/2017,United States,49493,52598,FALSE,50641,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+7/29/2017,United States,49493,52598,FALSE,50641,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+8/5/2017,United States,50210,52559,FALSE,50561,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+8/5/2017,United States,50210,52559,FALSE,50561,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+8/5/2017,United States,50210,52559,FALSE,50561,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+8/12/2017,United States,50371,52456,FALSE,50542,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+8/12/2017,United States,50371,52456,FALSE,50542,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+8/12/2017,United States,50371,52456,FALSE,50542,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+8/19/2017,United States,50296,52371,FALSE,50519,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+8/19/2017,United States,50296,52371,FALSE,50519,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+8/19/2017,United States,50296,52371,FALSE,50519,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+8/26/2017,United States,49659,52416,FALSE,50570,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+8/26/2017,United States,49659,52416,FALSE,50570,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+8/26/2017,United States,49659,52416,FALSE,50570,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+9/2/2017,United States,50960,52577,FALSE,50629,0,331,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+9/2/2017,United States,50960,52577,FALSE,50629,0,331,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/2/2017,United States,50960,52577,FALSE,50629,0,331,2017,288102,400735,0,0,Unweighted,All causes,,
+9/9/2017,United States,51111,52740,FALSE,50769,0,342,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+9/9/2017,United States,51111,52740,FALSE,50769,0,342,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/9/2017,United States,51111,52740,FALSE,50769,0,342,2017,288102,400735,0,0,Unweighted,All causes,,
+9/16/2017,United States,51820,52891,FALSE,50985,0,835,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+9/16/2017,United States,51820,52891,FALSE,50985,0,835,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/16/2017,United States,51820,52891,FALSE,50985,0,835,2017,288102,400735,0,0,Unweighted,All causes,,
+9/23/2017,United States,51358,53254,FALSE,51393,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+9/23/2017,United States,51358,53254,FALSE,51393,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/23/2017,United States,51358,53254,FALSE,51393,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+9/30/2017,United States,51462,53672,FALSE,51725,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+9/30/2017,United States,51462,53672,FALSE,51725,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/30/2017,United States,51462,53672,FALSE,51725,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+10/7/2017,United States,52235,54076,FALSE,52097,0,138,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+10/7/2017,United States,52235,54076,FALSE,52097,0,138,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+10/7/2017,United States,52235,54076,FALSE,52097,0,138,2017,288102,400735,0,0,Unweighted,All causes,,
+10/14/2017,United States,51703,54378,FALSE,52362,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+10/14/2017,United States,51703,54378,FALSE,52362,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+10/14/2017,United States,51703,54378,FALSE,52362,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+10/21/2017,United States,52357,54640,FALSE,52704,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+10/21/2017,United States,52357,54640,FALSE,52704,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+10/21/2017,United States,52357,54640,FALSE,52704,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+10/28/2017,United States,52672,54920,FALSE,52961,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+10/28/2017,United States,52672,54920,FALSE,52961,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+10/28/2017,United States,52672,54920,FALSE,52961,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+11/4/2017,United States,53837,55122,FALSE,53237,0,600,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+11/4/2017,United States,53837,55122,FALSE,53237,0,600,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+11/4/2017,United States,53837,55122,FALSE,53237,0,600,2017,288102,400735,0,0,Unweighted,All causes,,
+11/11/2017,United States,53394,55655,FALSE,53626,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+11/11/2017,United States,53394,55655,FALSE,53626,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+11/11/2017,United States,53394,55655,FALSE,53626,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+11/18/2017,United States,53909,56130,FALSE,54091,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+11/18/2017,United States,53909,56130,FALSE,54091,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+11/18/2017,United States,53909,56130,FALSE,54091,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+11/25/2017,United States,54225,56700,FALSE,54744,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+11/25/2017,United States,54225,56700,FALSE,54744,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+11/25/2017,United States,54225,56700,FALSE,54744,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+12/2/2017,United States,54907,57372,FALSE,55317,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+12/2/2017,United States,54907,57372,FALSE,55317,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/2/2017,United States,54907,57372,FALSE,55317,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+12/9/2017,United States,55756,58104,FALSE,56005,0,0,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+12/9/2017,United States,55756,58104,FALSE,56005,0,0,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/9/2017,United States,55756,58104,FALSE,56005,0,0,2017,288102,400735,0,0,Unweighted,All causes,,
+12/16/2017,United States,57538,58749,FALSE,56592,0,946,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+12/16/2017,United States,57538,58749,FALSE,56592,0,946,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/16/2017,United States,57538,58749,FALSE,56592,0,946,2017,288102,400735,0,0,Unweighted,All causes,,
+12/23/2017,United States,59671,59849,FALSE,57640,0,2031,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+12/23/2017,United States,59671,59849,FALSE,57640,0,2031,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/23/2017,United States,59671,59849,FALSE,57640,0,2031,2017,288102,400735,0,0,Unweighted,All causes,,
+12/30/2017,United States,61251,60749,TRUE,58476,502,2775,2017,328900,446406,0,0,Predicted (weighted),All causes,,
+12/30/2017,United States,61251,60749,TRUE,58476,502,2775,2017,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/30/2017,United States,61251,60749,TRUE,58476,502,2775,2017,288102,400735,0,0,Unweighted,All causes,,
+1/6/2018,United States,66317,61404,TRUE,59152,4913,7165,2018,328900,446406,0.1,0.1,Predicted (weighted),All causes,,
+1/6/2018,United States,66317,61404,TRUE,59152,4913,7165,2018,41420,138681,0.1,0.1,Predicted (weighted),"All causes, excluding COVID-19",,
+1/6/2018,United States,66317,61404,TRUE,59152,4913,7165,2018,288102,400735,0.1,0.1,Unweighted,All causes,,
+1/13/2018,United States,67664,62209,TRUE,59897,5455,7767,2018,328900,446406,0.1,0.1,Predicted (weighted),All causes,,
+1/13/2018,United States,67664,62209,TRUE,59897,5455,7767,2018,41420,138681,0.1,0.1,Predicted (weighted),"All causes, excluding COVID-19",,
+1/13/2018,United States,67664,62209,TRUE,59897,5455,7767,2018,288102,400735,0.1,0.1,Unweighted,All causes,,
+1/20/2018,United States,64842,62603,TRUE,60334,2239,4508,2018,328900,446406,0,0.1,Predicted (weighted),All causes,,
+1/20/2018,United States,64842,62603,TRUE,60334,2239,4508,2018,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,
+1/20/2018,United States,64842,62603,TRUE,60334,2239,4508,2018,288102,400735,0,0.1,Unweighted,All causes,,
+1/27/2018,United States,62922,62427,TRUE,60148,495,2774,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+1/27/2018,United States,62922,62427,TRUE,60148,495,2774,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+1/27/2018,United States,62922,62427,TRUE,60148,495,2774,2018,288102,400735,0,0,Unweighted,All causes,,
+2/3/2018,United States,61124,62290,FALSE,60017,0,1107,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+2/3/2018,United States,61124,62290,FALSE,60017,0,1107,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+2/3/2018,United States,61124,62290,FALSE,60017,0,1107,2018,288102,400735,0,0,Unweighted,All causes,,
+2/10/2018,United States,61243,62150,FALSE,59865,0,1378,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+2/10/2018,United States,61243,62150,FALSE,59865,0,1378,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+2/10/2018,United States,61243,62150,FALSE,59865,0,1378,2018,288102,400735,0,0,Unweighted,All causes,,
+2/17/2018,United States,59951,61800,FALSE,59436,0,515,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+2/17/2018,United States,59951,61800,FALSE,59436,0,515,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+2/17/2018,United States,59951,61800,FALSE,59436,0,515,2018,288102,400735,0,0,Unweighted,All causes,,
+2/24/2018,United States,57935,61517,FALSE,59317,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+2/24/2018,United States,57935,61517,FALSE,59317,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+2/24/2018,United States,57935,61517,FALSE,59317,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+3/3/2018,United States,56829,61333,FALSE,59047,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+3/3/2018,United States,56829,61333,FALSE,59047,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/3/2018,United States,56829,61333,FALSE,59047,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+3/10/2018,United States,57226,60947,FALSE,58675,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+3/10/2018,United States,57226,60947,FALSE,58675,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/10/2018,United States,57226,60947,FALSE,58675,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+3/17/2018,United States,56462,60380,FALSE,58170,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+3/17/2018,United States,56462,60380,FALSE,58170,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/17/2018,United States,56462,60380,FALSE,58170,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+3/24/2018,United States,55912,59849,FALSE,57565,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+3/24/2018,United States,55912,59849,FALSE,57565,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/24/2018,United States,55912,59849,FALSE,57565,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+3/31/2018,United States,55063,59063,FALSE,56955,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+3/31/2018,United States,55063,59063,FALSE,56955,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/31/2018,United States,55063,59063,FALSE,56955,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+4/7/2018,United States,55420,58473,FALSE,56406,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+4/7/2018,United States,55420,58473,FALSE,56406,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+4/7/2018,United States,55420,58473,FALSE,56406,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+4/14/2018,United States,55354,57833,FALSE,55747,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+4/14/2018,United States,55354,57833,FALSE,55747,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+4/14/2018,United States,55354,57833,FALSE,55747,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+4/21/2018,United States,54152,57429,FALSE,55182,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+4/21/2018,United States,54152,57429,FALSE,55182,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+4/21/2018,United States,54152,57429,FALSE,55182,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+4/28/2018,United States,53848,56855,FALSE,54698,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+4/28/2018,United States,53848,56855,FALSE,54698,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+4/28/2018,United States,53848,56855,FALSE,54698,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+5/5/2018,United States,53881,56142,FALSE,54147,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+5/5/2018,United States,53881,56142,FALSE,54147,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+5/5/2018,United States,53881,56142,FALSE,54147,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+5/12/2018,United States,52215,55577,FALSE,53613,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+5/12/2018,United States,52215,55577,FALSE,53613,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+5/12/2018,United States,52215,55577,FALSE,53613,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+5/19/2018,United States,50739,55280,FALSE,53276,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+5/19/2018,United States,50739,55280,FALSE,53276,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+5/19/2018,United States,50739,55280,FALSE,53276,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+5/26/2018,United States,51055,55057,FALSE,52869,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+5/26/2018,United States,51055,55057,FALSE,52869,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+5/26/2018,United States,51055,55057,FALSE,52869,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+6/2/2018,United States,51173,54637,FALSE,52531,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+6/2/2018,United States,51173,54637,FALSE,52531,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/2/2018,United States,51173,54637,FALSE,52531,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+6/9/2018,United States,52123,54251,FALSE,52316,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+6/9/2018,United States,52123,54251,FALSE,52316,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/9/2018,United States,52123,54251,FALSE,52316,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+6/16/2018,United States,51514,54115,FALSE,52200,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+6/16/2018,United States,51514,54115,FALSE,52200,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/16/2018,United States,51514,54115,FALSE,52200,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+6/23/2018,United States,51230,54074,FALSE,52102,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+6/23/2018,United States,51230,54074,FALSE,52102,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/23/2018,United States,51230,54074,FALSE,52102,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+6/30/2018,United States,50995,54050,FALSE,51919,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+6/30/2018,United States,50995,54050,FALSE,51919,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/30/2018,United States,50995,54050,FALSE,51919,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+7/7/2018,United States,51812,53820,FALSE,51717,0,95,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+7/7/2018,United States,51812,53820,FALSE,51717,0,95,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+7/7/2018,United States,51812,53820,FALSE,51717,0,95,2018,288102,400735,0,0,Unweighted,All causes,,
+7/14/2018,United States,51337,53546,FALSE,51596,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+7/14/2018,United States,51337,53546,FALSE,51596,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+7/14/2018,United States,51337,53546,FALSE,51596,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+7/21/2018,United States,50741,53426,FALSE,51491,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+7/21/2018,United States,50741,53426,FALSE,51491,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+7/21/2018,United States,50741,53426,FALSE,51491,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+7/28/2018,United States,50422,53335,FALSE,51371,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+7/28/2018,United States,50422,53335,FALSE,51371,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+7/28/2018,United States,50422,53335,FALSE,51371,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+8/4/2018,United States,50799,53392,FALSE,51235,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+8/4/2018,United States,50799,53392,FALSE,51235,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+8/4/2018,United States,50799,53392,FALSE,51235,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+8/11/2018,United States,51142,53195,FALSE,51132,0,10,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+8/11/2018,United States,51142,53195,FALSE,51132,0,10,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+8/11/2018,United States,51142,53195,FALSE,51132,0,10,2018,288102,400735,0,0,Unweighted,All causes,,
+8/18/2018,United States,50423,53217,FALSE,51218,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+8/18/2018,United States,50423,53217,FALSE,51218,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+8/18/2018,United States,50423,53217,FALSE,51218,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+8/25/2018,United States,50577,53335,FALSE,51326,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+8/25/2018,United States,50577,53335,FALSE,51326,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+8/25/2018,United States,50577,53335,FALSE,51326,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+9/1/2018,United States,50745,53515,FALSE,51454,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+9/1/2018,United States,50745,53515,FALSE,51454,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/1/2018,United States,50745,53515,FALSE,51454,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+9/8/2018,United States,50436,53867,FALSE,51587,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+9/8/2018,United States,50436,53867,FALSE,51587,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/8/2018,United States,50436,53867,FALSE,51587,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+9/15/2018,United States,51215,54052,FALSE,51826,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+9/15/2018,United States,51215,54052,FALSE,51826,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/15/2018,United States,51215,54052,FALSE,51826,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+9/22/2018,United States,51713,54182,FALSE,52100,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+9/22/2018,United States,51713,54182,FALSE,52100,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/22/2018,United States,51713,54182,FALSE,52100,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+9/29/2018,United States,51098,54437,FALSE,52396,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+9/29/2018,United States,51098,54437,FALSE,52396,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/29/2018,United States,51098,54437,FALSE,52396,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+10/6/2018,United States,52497,54753,FALSE,52671,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+10/6/2018,United States,52497,54753,FALSE,52671,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+10/6/2018,United States,52497,54753,FALSE,52671,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+10/13/2018,United States,51972,55331,FALSE,53099,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+10/13/2018,United States,51972,55331,FALSE,53099,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+10/13/2018,United States,51972,55331,FALSE,53099,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+10/20/2018,United States,53113,55560,FALSE,53272,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+10/20/2018,United States,53113,55560,FALSE,53272,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+10/20/2018,United States,53113,55560,FALSE,53272,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+10/27/2018,United States,53881,55773,FALSE,53608,0,273,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+10/27/2018,United States,53881,55773,FALSE,53608,0,273,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+10/27/2018,United States,53881,55773,FALSE,53608,0,273,2018,288102,400735,0,0,Unweighted,All causes,,
+11/3/2018,United States,53767,56014,FALSE,53868,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+11/3/2018,United States,53767,56014,FALSE,53868,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+11/3/2018,United States,53767,56014,FALSE,53868,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+11/10/2018,United States,53709,56333,FALSE,54279,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+11/10/2018,United States,53709,56333,FALSE,54279,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+11/10/2018,United States,53709,56333,FALSE,54279,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+11/17/2018,United States,54820,56841,FALSE,54722,0,98,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+11/17/2018,United States,54820,56841,FALSE,54722,0,98,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+11/17/2018,United States,54820,56841,FALSE,54722,0,98,2018,288102,400735,0,0,Unweighted,All causes,,
+11/24/2018,United States,54981,57428,FALSE,55313,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+11/24/2018,United States,54981,57428,FALSE,55313,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+11/24/2018,United States,54981,57428,FALSE,55313,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+12/1/2018,United States,55210,58323,FALSE,56017,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+12/1/2018,United States,55210,58323,FALSE,56017,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/1/2018,United States,55210,58323,FALSE,56017,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+12/8/2018,United States,56095,58823,FALSE,56568,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+12/8/2018,United States,56095,58823,FALSE,56568,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/8/2018,United States,56095,58823,FALSE,56568,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+12/15/2018,United States,56530,59796,FALSE,57457,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+12/15/2018,United States,56530,59796,FALSE,57457,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/15/2018,United States,56530,59796,FALSE,57457,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+12/22/2018,United States,56671,60975,FALSE,58589,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+12/22/2018,United States,56671,60975,FALSE,58589,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/22/2018,United States,56671,60975,FALSE,58589,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+12/29/2018,United States,56180,62156,FALSE,59639,0,0,2018,328900,446406,0,0,Predicted (weighted),All causes,,
+12/29/2018,United States,56180,62156,FALSE,59639,0,0,2018,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/29/2018,United States,56180,62156,FALSE,59639,0,0,2018,288102,400735,0,0,Unweighted,All causes,,
+1/5/2019,United States,58464,63734,FALSE,60986,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+1/5/2019,United States,58464,63734,FALSE,60986,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+1/5/2019,United States,58464,63734,FALSE,60986,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+1/12/2019,United States,58525,64561,FALSE,61843,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+1/12/2019,United States,58525,64561,FALSE,61843,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+1/12/2019,United States,58525,64561,FALSE,61843,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+1/19/2019,United States,58354,64895,FALSE,62246,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+1/19/2019,United States,58354,64895,FALSE,62246,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+1/19/2019,United States,58354,64895,FALSE,62246,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+1/26/2019,United States,58034,64802,FALSE,62281,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+1/26/2019,United States,58034,64802,FALSE,62281,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+1/26/2019,United States,58034,64802,FALSE,62281,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+2/2/2019,United States,58289,64014,FALSE,61580,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+2/2/2019,United States,58289,64014,FALSE,61580,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+2/2/2019,United States,58289,64014,FALSE,61580,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+2/9/2019,United States,58654,63805,FALSE,61313,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+2/9/2019,United States,58654,63805,FALSE,61313,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+2/9/2019,United States,58654,63805,FALSE,61313,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+2/16/2019,United States,58122,63446,FALSE,60897,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+2/16/2019,United States,58122,63446,FALSE,60897,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+2/16/2019,United States,58122,63446,FALSE,60897,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+2/23/2019,United States,58143,63103,FALSE,60602,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+2/23/2019,United States,58143,63103,FALSE,60602,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+2/23/2019,United States,58143,63103,FALSE,60602,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+3/2/2019,United States,58084,62305,FALSE,59933,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+3/2/2019,United States,58084,62305,FALSE,59933,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/2/2019,United States,58084,62305,FALSE,59933,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+3/9/2019,United States,58670,61762,FALSE,59403,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+3/9/2019,United States,58670,61762,FALSE,59403,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/9/2019,United States,58670,61762,FALSE,59403,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+3/16/2019,United States,58037,61328,FALSE,58956,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+3/16/2019,United States,58037,61328,FALSE,58956,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/16/2019,United States,58037,61328,FALSE,58956,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+3/23/2019,United States,57234,60840,FALSE,58527,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+3/23/2019,United States,57234,60840,FALSE,58527,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/23/2019,United States,57234,60840,FALSE,58527,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+3/30/2019,United States,56777,60340,FALSE,58070,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+3/30/2019,United States,56777,60340,FALSE,58070,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+3/30/2019,United States,56777,60340,FALSE,58070,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+4/6/2019,United States,56729,59772,FALSE,57520,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+4/6/2019,United States,56729,59772,FALSE,57520,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+4/6/2019,United States,56729,59772,FALSE,57520,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+4/13/2019,United States,55636,59138,FALSE,56885,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+4/13/2019,United States,55636,59138,FALSE,56885,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+4/13/2019,United States,55636,59138,FALSE,56885,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+4/20/2019,United States,54590,58674,FALSE,56409,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+4/20/2019,United States,54590,58674,FALSE,56409,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+4/20/2019,United States,54590,58674,FALSE,56409,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+4/27/2019,United States,53786,57967,FALSE,55723,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+4/27/2019,United States,53786,57967,FALSE,55723,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+4/27/2019,United States,53786,57967,FALSE,55723,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+5/4/2019,United States,54129,57164,FALSE,55033,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+5/4/2019,United States,54129,57164,FALSE,55033,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+5/4/2019,United States,54129,57164,FALSE,55033,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+5/11/2019,United States,53613,56739,FALSE,54491,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+5/11/2019,United States,53613,56739,FALSE,54491,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+5/11/2019,United States,53613,56739,FALSE,54491,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+5/18/2019,United States,53685,56341,FALSE,54092,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+5/18/2019,United States,53685,56341,FALSE,54092,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+5/18/2019,United States,53685,56341,FALSE,54092,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+5/25/2019,United States,53829,56004,FALSE,53771,0,58,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+5/25/2019,United States,53829,56004,FALSE,53771,0,58,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+5/25/2019,United States,53829,56004,FALSE,53771,0,58,2019,288102,400735,0,0,Unweighted,All causes,,
+6/1/2019,United States,52858,55705,FALSE,53525,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+6/1/2019,United States,52858,55705,FALSE,53525,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/1/2019,United States,52858,55705,FALSE,53525,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+6/8/2019,United States,53304,55423,FALSE,53374,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+6/8/2019,United States,53304,55423,FALSE,53374,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/8/2019,United States,53304,55423,FALSE,53374,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+6/15/2019,United States,52798,55543,FALSE,53361,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+6/15/2019,United States,52798,55543,FALSE,53361,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/15/2019,United States,52798,55543,FALSE,53361,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+6/22/2019,United States,52424,55554,FALSE,53358,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+6/22/2019,United States,52424,55554,FALSE,53358,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/22/2019,United States,52424,55554,FALSE,53358,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+6/29/2019,United States,52326,55366,FALSE,53208,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+6/29/2019,United States,52326,55366,FALSE,53208,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+6/29/2019,United States,52326,55366,FALSE,53208,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+7/6/2019,United States,52505,55203,FALSE,53040,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+7/6/2019,United States,52505,55203,FALSE,53040,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+7/6/2019,United States,52505,55203,FALSE,53040,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+7/13/2019,United States,52102,54911,FALSE,52870,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+7/13/2019,United States,52102,54911,FALSE,52870,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+7/13/2019,United States,52102,54911,FALSE,52870,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+7/20/2019,United States,51796,55050,FALSE,52847,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+7/20/2019,United States,51796,55050,FALSE,52847,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+7/20/2019,United States,51796,55050,FALSE,52847,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+7/27/2019,United States,51803,54910,FALSE,52689,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+7/27/2019,United States,51803,54910,FALSE,52689,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+7/27/2019,United States,51803,54910,FALSE,52689,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+8/3/2019,United States,51558,54821,FALSE,52624,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+8/3/2019,United States,51558,54821,FALSE,52624,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+8/3/2019,United States,51558,54821,FALSE,52624,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+8/10/2019,United States,51863,54701,FALSE,52542,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+8/10/2019,United States,51863,54701,FALSE,52542,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+8/10/2019,United States,51863,54701,FALSE,52542,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+8/17/2019,United States,51132,54919,FALSE,52703,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+8/17/2019,United States,51132,54919,FALSE,52703,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+8/17/2019,United States,51132,54919,FALSE,52703,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+8/24/2019,United States,51151,54989,FALSE,52716,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+8/24/2019,United States,51151,54989,FALSE,52716,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+8/24/2019,United States,51151,54989,FALSE,52716,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+8/31/2019,United States,51296,55093,FALSE,52812,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+8/31/2019,United States,51296,55093,FALSE,52812,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+8/31/2019,United States,51296,55093,FALSE,52812,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+9/7/2019,United States,51960,55329,FALSE,52950,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+9/7/2019,United States,51960,55329,FALSE,52950,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/7/2019,United States,51960,55329,FALSE,52950,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+9/14/2019,United States,51748,55463,FALSE,53140,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+9/14/2019,United States,51748,55463,FALSE,53140,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/14/2019,United States,51748,55463,FALSE,53140,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+9/21/2019,United States,51911,55683,FALSE,53371,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+9/21/2019,United States,51911,55683,FALSE,53371,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/21/2019,United States,51911,55683,FALSE,53371,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+9/28/2019,United States,52875,56146,FALSE,53746,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+9/28/2019,United States,52875,56146,FALSE,53746,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+9/28/2019,United States,52875,56146,FALSE,53746,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+10/5/2019,United States,52703,56380,FALSE,53985,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+10/5/2019,United States,52703,56380,FALSE,53985,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+10/5/2019,United States,52703,56380,FALSE,53985,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+10/12/2019,United States,53220,56740,FALSE,54347,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+10/12/2019,United States,53220,56740,FALSE,54347,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+10/12/2019,United States,53220,56740,FALSE,54347,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+10/19/2019,United States,54440,57214,FALSE,54753,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+10/19/2019,United States,54440,57214,FALSE,54753,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+10/19/2019,United States,54440,57214,FALSE,54753,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+10/26/2019,United States,54157,57285,FALSE,54962,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+10/26/2019,United States,54157,57285,FALSE,54962,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+10/26/2019,United States,54157,57285,FALSE,54962,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+11/2/2019,United States,54232,57647,FALSE,55276,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+11/2/2019,United States,54232,57647,FALSE,55276,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+11/2/2019,United States,54232,57647,FALSE,55276,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+11/9/2019,United States,55802,58058,FALSE,55632,0,170,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+11/9/2019,United States,55802,58058,FALSE,55632,0,170,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+11/9/2019,United States,55802,58058,FALSE,55632,0,170,2019,288102,400735,0,0,Unweighted,All causes,,
+11/16/2019,United States,56037,58384,FALSE,55927,0,110,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+11/16/2019,United States,56037,58384,FALSE,55927,0,110,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+11/16/2019,United States,56037,58384,FALSE,55927,0,110,2019,288102,400735,0,0,Unweighted,All causes,,
+11/23/2019,United States,56333,58824,FALSE,56354,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+11/23/2019,United States,56333,58824,FALSE,56354,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+11/23/2019,United States,56333,58824,FALSE,56354,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+11/30/2019,United States,55601,59520,FALSE,57000,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+11/30/2019,United States,55601,59520,FALSE,57000,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+11/30/2019,United States,55601,59520,FALSE,57000,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+12/7/2019,United States,57434,59745,FALSE,57266,0,168,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+12/7/2019,United States,57434,59745,FALSE,57266,0,168,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/7/2019,United States,57434,59745,FALSE,57266,0,168,2019,288102,400735,0,0,Unweighted,All causes,,
+12/14/2019,United States,57793,60320,FALSE,57904,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+12/14/2019,United States,57793,60320,FALSE,57904,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/14/2019,United States,57793,60320,FALSE,57904,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+12/21/2019,United States,57583,61180,FALSE,58708,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+12/21/2019,United States,57583,61180,FALSE,58708,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/21/2019,United States,57583,61180,FALSE,58708,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+12/28/2019,United States,58618,61843,FALSE,59318,0,0,2019,328900,446406,0,0,Predicted (weighted),All causes,,
+12/28/2019,United States,58618,61843,FALSE,59318,0,0,2019,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+12/28/2019,United States,58618,61843,FALSE,59318,0,0,2019,288102,400735,0,0,Unweighted,All causes,,
+1/4/2020,United States,60155,62273,FALSE,59668,0,487,2020,328900,446406,0,0,Predicted (weighted),All causes,,
+1/4/2020,United States,60154,62273,FALSE,59668,0,486,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+1/4/2020,United States,60155,62273,FALSE,59668,0,487,2020,288102,400735,0,0,Unweighted,All causes,,
+1/11/2020,United States,60710,62651,FALSE,60035,0,675,2020,328900,446406,0,0,Predicted (weighted),All causes,,
+1/11/2020,United States,60710,62651,FALSE,60035,0,675,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+1/11/2020,United States,60707,62651,FALSE,60035,0,672,2020,288102,400735,0,0,Unweighted,All causes,,
+1/18/2020,United States,59360,62585,FALSE,60199,0,0,2020,328900,446406,0,0,Predicted (weighted),All causes,,
+1/18/2020,United States,59357,62585,FALSE,60199,0,0,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+1/18/2020,United States,59356,62585,FALSE,60199,0,0,2020,288102,400735,0,0,Unweighted,All causes,,
+1/25/2020,United States,59140,62531,FALSE,60203,0,0,2020,328900,446406,0,0,Predicted (weighted),All causes,,
+1/25/2020,United States,59138,62531,FALSE,60203,0,0,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,
+1/25/2020,United States,59137,62531,FALSE,60203,0,0,2020,288102,400735,0,0,Unweighted,All causes,,
+2/1/2020,United States,58800,61898,FALSE,59684,0,0,2020,328900,446406,0,0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+2/1/2020,United States,58800,61898,FALSE,59684,0,0,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+2/1/2020,United States,58796,61898,FALSE,59684,0,0,2020,288102,400735,0,0,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+2/8/2020,United States,59380,61716,FALSE,59493,0,0,2020,328900,446406,0,0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+2/8/2020,United States,59379,61716,FALSE,59493,0,0,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+2/8/2020,United States,59367,61716,FALSE,59493,0,0,2020,288102,400735,0,0,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+2/15/2020,United States,58789,61595,FALSE,59318,0,0,2020,328900,446406,0,0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+2/15/2020,United States,58789,61595,FALSE,59318,0,0,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+2/15/2020,United States,58782,61595,FALSE,59318,0,0,2020,288102,400735,0,0,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+2/22/2020,United States,58877,61221,FALSE,59041,0,0,2020,328900,446406,0,0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+2/22/2020,United States,58873,61221,FALSE,59041,0,0,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+2/22/2020,United States,58870,61221,FALSE,59041,0,0,2020,288102,400735,0,0,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+2/29/2020,United States,59273,60715,FALSE,58600,0,673,2020,328900,446406,0,0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+2/29/2020,United States,59264,60715,FALSE,58600,0,664,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+2/29/2020,United States,59270,60715,FALSE,58600,0,670,2020,288102,400735,0,0,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+3/7/2020,United States,59637,60523,FALSE,58386,0,1251,2020,328900,446406,0,0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+3/7/2020,United States,59601,60523,FALSE,58386,0,1215,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+3/7/2020,United States,59632,60523,FALSE,58386,0,1246,2020,288102,400735,0,0,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+3/14/2020,United States,58636,60155,FALSE,58021,0,615,2020,328900,446406,0,0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+3/14/2020,United States,58580,60155,FALSE,58021,0,559,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+3/14/2020,United States,58628,60155,FALSE,58021,0,607,2020,288102,400735,0,0,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+3/21/2020,United States,59191,59831,FALSE,57636,0,1555,2020,328900,446406,0,0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+3/21/2020,United States,58616,59831,FALSE,57636,0,980,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+3/21/2020,United States,59164,59831,FALSE,57636,0,1528,2020,288102,400735,0,0,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+3/28/2020,United States,62971,59268,TRUE,57142,3703,5829,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+3/28/2020,United States,59798,59268,TRUE,57142,530,2656,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+3/28/2020,United States,62960,59268,TRUE,57142,3692,5818,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+4/4/2020,United States,72276,58646,TRUE,56551,13630,15725,2020,328900,446406,0.2,0.3,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+4/4/2020,United States,62227,58646,TRUE,56551,3581,5676,2020,41420,138681,0.1,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+4/4/2020,United States,72253,58646,TRUE,56551,13607,15702,2020,288102,400735,0.2,0.3,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+4/11/2020,United States,79058,58073,TRUE,55991,20985,23067,2020,328900,446406,0.4,0.4,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+4/11/2020,United States,62841,58073,TRUE,55991,4768,6850,2020,41420,138681,0.1,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+4/11/2020,United States,79001,58073,TRUE,55991,20928,23010,2020,288102,400735,0.4,0.4,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+4/18/2020,United States,76757,57427,TRUE,55408,19330,21349,2020,328900,446406,0.3,0.4,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+4/18/2020,United States,59656,57427,TRUE,55408,2229,4248,2020,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+4/18/2020,United States,76707,57427,TRUE,55408,19280,21299,2020,288102,400735,0.3,0.4,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+4/25/2020,United States,73850,56829,TRUE,54789,17021,19061,2020,328900,446406,0.3,0.3,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+4/25/2020,United States,58383,56829,TRUE,54789,1554,3594,2020,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+4/25/2020,United States,73820,56829,TRUE,54789,16991,19031,2020,288102,400735,0.3,0.3,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+5/2/2020,United States,69268,56221,TRUE,54182,13047,15086,2020,328900,446406,0.2,0.3,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+5/2/2020,United States,56093,56221,FALSE,54182,0,1911,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+5/2/2020,United States,69238,56221,TRUE,54182,13017,15056,2020,288102,400735,0.2,0.3,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+5/9/2020,United States,66764,55747,TRUE,53725,11017,13039,2020,328900,446406,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+5/9/2020,United States,55571,55747,FALSE,53725,0,1846,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+5/9/2020,United States,66752,55747,TRUE,53725,11005,13027,2020,288102,400735,0.2,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+5/16/2020,United States,64437,55411,TRUE,53364,9026,11073,2020,328900,446406,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+5/16/2020,United States,55250,55411,FALSE,53364,0,1886,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+5/16/2020,United States,64412,55411,TRUE,53364,9001,11048,2020,288102,400735,0.2,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+5/23/2020,United States,61562,54991,TRUE,53035,6571,8527,2020,328900,446406,0.1,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+5/23/2020,United States,54362,54991,FALSE,53035,0,1327,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+5/23/2020,United States,61548,54991,TRUE,53035,6557,8513,2020,288102,400735,0.1,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+5/30/2020,United States,59614,54796,TRUE,52824,4818,6790,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+5/30/2020,United States,53474,54796,FALSE,52824,0,650,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+5/30/2020,United States,59601,54796,TRUE,52824,4805,6777,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+6/6/2020,United States,58839,54661,TRUE,52689,4178,6150,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+6/6/2020,United States,53820,54661,FALSE,52689,0,1131,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+6/6/2020,United States,58830,54661,TRUE,52689,4169,6141,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+6/13/2020,United States,57965,54502,TRUE,52508,3463,5457,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+6/13/2020,United States,53749,54502,FALSE,52508,0,1241,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+6/13/2020,United States,57948,54502,TRUE,52508,3446,5440,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+6/20/2020,United States,57915,54507,TRUE,52470,3408,5445,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+6/20/2020,United States,54096,54507,FALSE,52470,0,1626,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+6/20/2020,United States,57905,54507,TRUE,52470,3398,5435,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+6/27/2020,United States,58419,54246,TRUE,52320,4173,6099,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+6/27/2020,United States,54610,54246,TRUE,52320,364,2290,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+6/27/2020,United States,58397,54246,TRUE,52320,4151,6077,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+7/4/2020,United States,59763,54094,TRUE,52132,5669,7631,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+7/4/2020,United States,55257,54094,TRUE,52132,1163,3125,2020,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+7/4/2020,United States,59727,54094,TRUE,52132,5633,7595,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+7/11/2020,United States,61837,53929,TRUE,51983,7908,9854,2020,328900,446406,0.1,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+7/11/2020,United States,56095,53929,TRUE,51983,2166,4112,2020,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+7/11/2020,United States,61818,53929,TRUE,51983,7889,9835,2020,288102,400735,0.1,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+7/18/2020,United States,63417,53809,TRUE,51845,9608,11572,2020,328900,446406,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+7/18/2020,United States,56234,53809,TRUE,51845,2425,4389,2020,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+7/18/2020,United States,63031,53809,TRUE,51845,9222,11186,2020,288102,400735,0.2,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+7/25/2020,United States,64488,53719,TRUE,51701,10769,12787,2020,328900,446406,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+7/25/2020,United States,56270,53719,TRUE,51701,2551,4569,2020,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+7/25/2020,United States,64091,53719,TRUE,51701,10372,12390,2020,288102,400735,0.2,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+8/1/2020,United States,64479,53470,TRUE,51550,11009,12929,2020,328900,446406,0.2,0.3,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+8/1/2020,United States,56174,53470,TRUE,51550,2704,4624,2020,41420,138681,0.1,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+8/1/2020,United States,64054,53470,TRUE,51550,10584,12504,2020,288102,400735,0.2,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+8/8/2020,United States,63939,53476,TRUE,51516,10463,12423,2020,328900,446406,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+8/8/2020,United States,56088,53476,TRUE,51516,2612,4572,2020,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+8/8/2020,United States,63503,53476,TRUE,51516,10027,11987,2020,288102,400735,0.2,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+8/15/2020,United States,63864,53436,TRUE,51491,10428,12373,2020,328900,446406,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+8/15/2020,United States,56624,53436,TRUE,51491,3188,5133,2020,41420,138681,0.1,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+8/15/2020,United States,63385,53436,TRUE,51491,9949,11894,2020,288102,400735,0.2,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+8/22/2020,United States,62700,53438,TRUE,51565,9262,11135,2020,328900,446406,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+8/22/2020,United States,56334,53438,TRUE,51565,2896,4769,2020,41420,138681,0.1,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+8/22/2020,United States,62189,53438,TRUE,51565,8751,10624,2020,288102,400735,0.2,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+8/29/2020,United States,61153,53648,TRUE,51619,7505,9534,2020,328900,446406,0.1,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+8/29/2020,United States,55453,53648,TRUE,51619,1805,3834,2020,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+8/29/2020,United States,60637,53648,TRUE,51619,6989,9018,2020,288102,400735,0.1,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+9/5/2020,United States,60050,53772,TRUE,51839,6278,8211,2020,328900,446406,0.1,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+9/5/2020,United States,55110,53772,TRUE,51839,1338,3271,2020,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+9/5/2020,United States,59452,53772,TRUE,51839,5680,7613,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+9/12/2020,United States,59227,54022,TRUE,52026,5205,7201,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+9/12/2020,United States,54716,54022,TRUE,52026,694,2690,2020,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+9/12/2020,United States,58560,54022,TRUE,52026,4538,6534,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+9/19/2020,United States,59242,54222,TRUE,52321,5020,6921,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+9/19/2020,United States,55091,54222,TRUE,52321,869,2770,2020,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+9/19/2020,United States,58491,54222,TRUE,52321,4269,6170,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+9/26/2020,United States,59897,54622,TRUE,52654,5275,7243,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+9/26/2020,United States,55739,54622,TRUE,52654,1117,3085,2020,41420,138681,0,0.1,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+9/26/2020,United States,59144,54622,TRUE,52654,4522,6490,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+10/3/2020,United States,58652,55152,TRUE,53030,3500,5622,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+10/3/2020,United States,54581,55152,FALSE,53030,0,1551,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+10/3/2020,United States,57892,55152,TRUE,53030,2740,4862,2020,288102,400735,0,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+10/10/2020,United States,60277,55448,TRUE,53346,4829,6931,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+10/10/2020,United States,55658,55448,TRUE,53346,210,2312,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+10/10/2020,United States,59378,55448,TRUE,53346,3930,6032,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+10/17/2020,United States,58769,55723,TRUE,53741,3046,5028,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+10/17/2020,United States,53808,55723,FALSE,53741,0,67,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+10/17/2020,United States,57800,55723,TRUE,53741,2077,4059,2020,288102,400735,0,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+10/24/2020,United States,60204,56224,TRUE,54160,3980,6044,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+10/24/2020,United States,54485,56224,FALSE,54160,0,325,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+10/24/2020,United States,59180,56224,TRUE,54160,2956,5020,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+10/31/2020,United States,61241,56574,TRUE,54598,4667,6643,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+10/31/2020,United States,54608,56574,FALSE,54598,0,10,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+10/31/2020,United States,60111,56574,TRUE,54598,3537,5513,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+11/7/2020,United States,64881,57105,TRUE,54958,7776,9923,2020,328900,446406,0.1,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+11/7/2020,United States,56571,57105,FALSE,54958,0,1613,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+11/7/2020,United States,63481,57105,TRUE,54958,6376,8523,2020,288102,400735,0.1,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+11/14/2020,United States,66378,57448,TRUE,55302,8930,11076,2020,328900,446406,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+11/14/2020,United States,56204,57448,FALSE,55302,0,902,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+11/14/2020,United States,64528,57448,TRUE,55302,7080,9226,2020,288102,400735,0.1,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+11/21/2020,United States,68877,57977,TRUE,55837,10900,13040,2020,328900,446406,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+11/21/2020,United States,56054,57977,FALSE,55837,0,217,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+11/21/2020,United States,65997,57977,TRUE,55837,8020,10160,2020,288102,400735,0.1,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+11/28/2020,United States,69441,58357,TRUE,56296,11084,13145,2020,328900,446406,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+11/28/2020,United States,54899,58357,FALSE,56296,0,0,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+11/28/2020,United States,66034,58357,TRUE,56296,7677,9738,2020,288102,400735,0.1,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+12/5/2020,United States,71642,58921,TRUE,56828,12721,14814,2020,328900,446406,0.2,0.3,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+12/5/2020,United States,55096,58921,FALSE,56828,0,0,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+12/5/2020,United States,66948,58921,TRUE,56828,8027,10120,2020,288102,400735,0.1,0.2,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+12/12/2020,United States,72561,59454,TRUE,57358,13107,15203,2020,328900,446406,0.2,0.3,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+12/12/2020,United States,56788,59454,FALSE,57358,0,0,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+12/12/2020,United States,62664,59454,TRUE,57358,3210,5306,2020,288102,400735,0.1,0.1,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+12/19/2020,United States,65948,60357,TRUE,58320,5591,7628,2020,328900,446406,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+12/19/2020,United States,56833,60356,FALSE,58320,0,0,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+12/19/2020,United States,44144,60356,FALSE,58320,0,0,2020,288102,400735,0,0,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
+12/26/2020,United States,51409,61310,FALSE,59160,0,0,2020,328900,446406,0,0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+12/26/2020,United States,46619,61310,FALSE,59160,0,0,2020,41420,138681,0,0,Predicted (weighted),"All causes, excluding COVID-19",,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction."
+12/26/2020,United States,29612,61310,FALSE,59159,0,0,2020,288102,400735,0,0,Unweighted,All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction. Data are not weighted and counts are likely underreported."
