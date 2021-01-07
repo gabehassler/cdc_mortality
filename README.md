@@ -30,3 +30,4 @@ For the 2020 death rate, I took the estimated 2020 death count with the 7/1/2020
 | 2019 | ~2,855,000 | ~870 | ? | +0.3%|
 | 2020 | ~3,300,000 | ~1,000 | ? | +15%|
 
+__Note: The 2020 numbers are NOT official CDC estimates. They are based on CDC data (see methods above) but the CDC has not released provisional mortality data for all of 2020.__
