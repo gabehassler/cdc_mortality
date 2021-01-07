@@ -12,7 +12,7 @@ I aim to place the 2020 CDC mortality statistics in context with previous years.
 
 For 2019, I took the provisional death counts (https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm) and simply divided by the population on 7/1/2019 (328,239,523 per https://www.census.gov/popclock/) which is halfway through 2019. This resulted in an approximate death rate of 870 per 100,000 population.
 
-For 2020, the data are harder to come by. We have provisionla data for the first 6 months of 2020 (https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm). For the rest of the year, I took the estimated number of weekly deaths from the CDC excess deaths panel (https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm). Note that these do not appear complete after 12/12/2020, so I used the 12/12/2020 numbers to extrapolate for 12/13/2020 through 12/31/2020.
+For 2020, the data are harder to come by. We have provisionla data for the first 6 months of 2020 (https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm). For the rest of the year, I took the estimated number of weekly deaths from the CDC excess deaths panel (https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm). Note that these do not appear complete after 12/12/2020, so I used the 12/12/2020 numbers to extrapolate for 12/13/2020 through 12/31/2020. All code used to produce these estimates can be found in the `2020.jl` file associated with this repo.
 
 For the 2020 death rate, I took the estimated 2020 death count with the 7/1/2020 estimated US population of 329,877,505 from https://www.census.gov/popclock/.
 
